@@ -119,11 +119,12 @@ ul {
     font-size: 45px;
     color: #316901;
     font-weight: normal;
+    background-color: magenta;
 }
 
 #introduction p {
     font-size: 25px;
-    color: #628F19;
+    color: blue;
     text-align: justify;
 }
 
